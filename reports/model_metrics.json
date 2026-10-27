@@ -1,0 +1,23 @@
+{
+    "KNN": {
+        "cv_macro_f1": 0.8498354656615525,
+        "train_score": 0.8640840336383551,
+        "test_macro_f1": 0.8970741901776385
+    },
+    "Decision Tree": {
+        "cv_macro_f1": 0.8426507996824387,
+        "train_score": 0.8800651925945138,
+        "test_macro_f1": 0.8789968652037619
+    },
+    "Random Forest": {
+        "cv_macro_f1": 0.853498882579568,
+        "train_score": 0.9172948829959772,
+        "test_macro_f1": 0.8799051415152639
+    },
+    "SVM": {
+        "cv_macro_f1": 0.882177916977672,
+        "train_score": 0.8963338218592973,
+        "test_macro_f1": 0.9291938748233856
+    },
+    "best_model": "SVM"
+}
